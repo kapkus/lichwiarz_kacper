@@ -1,0 +1,39 @@
+
+
+/*! \mainpage Strona główna
+ *
+ * \section intro_sec Introduction
+ *
+ * To jest sekcja opisowa projektu
+ *
+ * \section install_sec Installation
+ *
+ * \subsection step1 Step 1: Rozpakowywanie archiwum
+ * bla bla bla
+ * \subsection step2 Step 2: Używanie
+ * <img src="C:\Users\Kacper\Desktop\zaliczenie\lichwiarz_kacper" align="left">
+ 
+
+
+
+Dodatkowe strony:
+- \subpage page1
+- \subpage page2
+
+ */
+ 
+ /*! \page page1 Czyszczenie konfiguracji
+  \tableofcontents
+  Reset configu
+  \section sec Appdata
+  Aby wyczyścić pliki w appdata należy usunąc pliki z folderu \ref config i \ref save.
+  Jeżeli masz problemy zobacz stronę \ref page2.
+  \subsection config config
+  Usuń pliki w folderze
+  \subsection save save
+  Usuń pliki w folderze
+*/
+ 
+/*! \page page2 Problemy
+  Brak rozwiązań
+*/
